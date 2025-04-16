@@ -9,7 +9,9 @@ Statistics regarding the models' successes can be viewed on the dashboard as wel
 workspace.
 <br> <br>
 By: <br>
-Catherine Methven 300361000 - methvenc@student.douglascollege.ca
+Catherine Methven 300361000 - methvenc@student.douglascollege.ca <br>
+
+This student project was made CSIS4495 - Applied Research Project at Douglas College in New Westminster, Canada.
 
 # Instructions to Set Up Notion Workspace
 Step 1. Log into your Notion account and go to the Developer Portal. Select the Integrations tab. <br>
