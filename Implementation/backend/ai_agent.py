@@ -1,7 +1,6 @@
 from google import genai
 from pydantic import BaseModel
 from dotenv import load_dotenv
-from notion_client_manager import NotionManager
 import os, json, traceback
 import asyncio
 import threading
