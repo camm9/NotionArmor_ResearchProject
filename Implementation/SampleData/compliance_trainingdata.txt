@@ -1,0 +1,71 @@
+text,security,availability,processing_integrity,confidentiality,privacy,compliant
+"Password 'Summer2023!' exposed in public code repository",1,0,0,1,0,0
+"System uptime dropped below 99.9% SLA threshold",0,1,0,0,0,0
+"Payment processing system double-charged customer transactions",0,0,1,0,0,0
+"AWS access key 'AKIAIOSFODNN7EXAMPLE' found in public GitHub",1,0,0,1,0,0
+"MongoDB credentials 'mongodb://admin:password123@localhost:27017' exposed in config",1,0,0,1,0,0
+"Customer health records accessed without authentication",1,0,0,1,1,0
+"Backup system failed to complete within recovery time objective",0,1,0,0,0,0
+"Production database inaccessible during business hours",0,1,0,0,0,0
+"Data validation checks bypassed during batch processing",0,0,1,0,0,0
+"API key 'sk_test_51HbXxKHK8lJuZlZm' exposed in client-side code",1,0,0,1,0,0
+"Unauthorized modification of financial records detected",0,0,1,0,0,0
+"SSN 123-45-6789 stored without encryption",1,0,0,1,1,0
+"Critical security patches not applied within 30 days",1,0,0,0,0,0
+"Load balancer failover mechanism failed",0,1,0,0,0,0
+"Transaction logs showing data tampering",0,0,1,0,0,0
+"GitHub token 'ghp_xK8bP5nM2vL9qR4tY7wA' leaked in public repo",1,0,0,1,0,0
+"Customer consent records not maintained",0,0,0,0,1,0
+"Firewall rules modified without change control",1,0,0,0,0,0
+"Disaster recovery plan not tested in 12 months",0,1,0,0,0,0
+"Input validation missing on payment processing",0,0,1,0,0,0
+"Credit card number 4532-9856-1234-5678 logged in plaintext",1,0,0,1,1,0
+"Personal phone number +1-555-123-4567 shared with vendors without consent",0,0,0,0,1,0
+"Two-factor authentication disabled for admin accounts",1,0,0,0,0,0
+"Backup data corrupted and unrecoverable",0,1,0,0,0,0
+"Customer order details modified after submission",0,0,1,0,0,0
+"Azure connection string with credentials exposed in logging system",1,0,0,1,0,0
+"User data shared with third party without privacy notice",0,0,0,0,1,0
+"Root access granted without approval",1,0,0,0,0,0
+"Critical service dependencies not monitored",0,1,0,0,0,0
+"Financial calculations contained rounding errors",0,0,1,0,0,0
+"Encryption keys stored in unsecured location",1,0,0,1,0,0
+"Health records accessed beyond authorized scope",1,0,0,1,1,0
+"Security monitoring system offline for 6 hours",1,0,0,0,0,0
+"Network redundancy failure in primary datacenter",0,1,0,0,0,0
+"Data integrity checks skipped during migration",0,0,1,0,0,0
+"Internal documentation exposed to public internet",0,0,0,1,0,0
+"Customer opt-out preferences ignored in marketing",0,0,0,0,1,0
+"Antivirus software disabled on production servers",1,0,0,0,0,0
+"Business continuity plan outdated by 18 months",0,1,0,0,0,0
+"System logs modified to hide unauthorized changes",0,0,1,0,0,0
+"Confidential contract details leaked via email",0,0,0,1,0,0
+"Biometric data collected without explicit consent",0,0,0,0,1,0
+"George Walkers has yet to pay his invoice",0,0,0,0,0,1
+"Sabrina needs her password to be reset. Can you help her?",0,0,0,0,0,1
+"HR has sent the new employee the intake forms",0,0,0,0,0,1
+"The Google API Key needs to be reset for the website",0,0,0,0,0,1
+"All visitors must sign in at the front desk",0,0,0,0,0,1
+"Invoice 01-152 is overdue. Send customer payment options",0,0,0,0,0,1
+"Quarterly security audit completed successfully. All systems are operating with current security patches and proper access controls. Multi-factor authentication is enabled for all administrative accounts, and log monitoring shows no unauthorized access attempts. Vulnerability scanning reports indicate no critical or high-risk findings.",0,0,0,0,0,1
+"Team update: The new customer portal deployment was completed according to schedule. All user data was migrated using our encrypted transfer protocol, and the authentication system properly validates all access tokens. Performance metrics show response times well within SLA requirements. No downtime was recorded during the transition.",0,0,0,0,0,1
+"Project Phoenix status report: Sprint 3 completed with all security requirements met. Code review process identified no vulnerabilities, and all API endpoints are properly authenticated. Database connections use role-based access control with temporary credentials managed by our secrets rotation service. Next sprint planning scheduled for Monday.",0,0,0,0,0,1
+"Customer data processing update: All personal information is being handled in accordance with GDPR requirements. Data classification is properly applied, and access logs show appropriate usage patterns. Privacy impact assessment completed for new features with no concerns identified. Customer consent records are up to date.",0,0,0,0,0,1
+"System maintenance notification: Scheduled downtime will occur this Sunday from 2 AM to 4 AM EST. All services will be updated using our automated deployment pipeline with proper rollback procedures in place. Encrypted backups have been verified, and the disaster recovery plan has been reviewed. Please contact the infrastructure team with any questions.",0,0,0,0,0,1
+"Development environment update: New security measures implemented successfully. All developers now use temporary access tokens with automatic expiration. Repository scans confirm no sensitive information in code. Build pipeline includes automated security testing with all tests passing. Documentation updated to reflect new secure coding guidelines.",0,0,0,0,0,1
+"HR announcement: Annual security awareness training materials have been updated. All employees must complete the training by March 31st. The new modules cover secure data handling, privacy requirements, and incident reporting procedures. Training completion is tracked through our compliance management system.",0,0,0,0,0,1
+"Financial processing report: All transactions for February have been reconciled successfully. Automated integrity checks passed with no anomalies detected. Audit logs show proper segregation of duties maintained throughout the month. All reports generated using approved templates with proper data handling controls.",0,0,0,0,0,1
+"Marketing campaign results: Q1 email campaign completed with 100% compliance to privacy requirements. All recipients were verified against consent database, opt-out requests were processed within 24 hours, and engagement metrics were collected according to privacy policy guidelines. No data sharing occurred with third parties.",0,0,0,0,0,1
+"Infrastructure health report: All critical systems operating normally. Load balancers showing optimal distribution, backup systems successfully tested, and failover procedures verified. Security monitoring reports no anomalies. All system access is properly authenticated and authorized. Resource utilization within expected parameters.",0,0,0,0,0,1
+"Client meeting summary: Discussed project requirements with Acme Corp team. All communication conducted through approved channels. Meeting notes stored in secured repository with appropriate access controls. Action items tracked in compliance-approved project management system. Follow-up scheduled for next week.",0,0,0,0,0,1
+"Monthly compliance update: All required security controls validated and operating effectively. Access reviews completed on schedule, incident response procedures tested, and all system logs properly archived. Privacy impact assessments completed for new features. No compliance violations or security incidents reported.",0,0,0,0,0,1
+"During the quarterly system maintenance review conducted last week, our team discovered that several development servers in the staging environment were running with default credentials (username: admin, password: admin123). While these servers don't contain production data, this poses a significant security risk as they're accessible from the internal network.",1,0,0,1,0,0
+"The analytics dashboard has been experiencing intermittent outages during peak hours (10 AM - 2 PM EST). Investigation reveals that the auto-scaling configuration is not properly responding to increased load, causing the service to become unresponsive when concurrent users exceed 500. This has resulted in multiple SLA violations over the past week.",0,1,0,0,0,0
+"A thorough audit of our payment processing logs from March 15-22 revealed that the currency conversion module was using outdated exchange rates cached from February, potentially affecting thousands of international transactions. The impact analysis shows discrepancies ranging from $0.01 to $15.00 per transaction.",0,0,1,0,0,0
+"Team meeting notes from project Phoenix: Development timeline discussed and approved. Integration with legacy systems scheduled for Q3. Note: AWS access key AKIA4EQBBG2YGXJPH3SA and secret key 89*J2nsdf$#@kj4h5k found in config.js - please rotate immediately. Sprint planning for next phase begins Monday.",1,0,0,1,0,0
+"In preparation for our upcoming GDPR compliance audit, we've identified several areas requiring immediate attention. Customer email preferences are not being properly synchronized across all marketing platforms, and we found instances where opt-out requests were not honored within the required 30-day window. Additionally, some third-party data processors are operating under expired DPAs.",0,0,0,0,1,0
+"Magnus opus transformationis, alchemica transmutatio materiae. Divina intelligentia gubernat, ordo cosmicus maintenet equilibrium. API_KEY=4a1b2c3d4e5f6g7h8i9j0k. Energeia vitalis circulat, spiralis evolutionis ascendit. Potentia creativa manifestat, realitas multidimensionalis exist. Database connection: mongodb://readwrite:Pass123Word@prod-db:27017. Quantum entanglement connectit omnia, unitas in diversitate apparet.",1,0,0,1,0,0
+"Monthly system health report indicates critical infrastructure components including primary and secondary load balancers, authentication services, and data replication mechanisms are functioning within normal parameters. All monitored metrics are green, and no significant incidents were reported in the past 30 days. Regular security patches have been applied according to schedule.",0,0,0,0,0,1
+"Recent penetration testing revealed our customer support portal is vulnerable to SQL injection attacks. The discovered vulnerability could potentially expose sensitive customer data including support ticket history and contact information. Initial investigation suggests the vulnerability has existed since the last framework update in December.  Login credentials for testing: support_admin / Test123!@#",1,0,0,1,1,0
+"The data warehouse transformation pipeline experienced multiple failures during the end-of-month reconciliation process. Investigation shows that the ETL jobs are not properly handling null values in critical fields, leading to data integrity issues in financial reporting tables. Impact: March financial reports may contain inaccurate aggregations.",0,0,1,0,0,0
+"Customer feedback survey responses from Q1 2024: Overall satisfaction score: 4.2/5. Key areas for improvement: website performance and account management. Note: survey responses contain personal identifiable information including email addresses and phone numbers. Access restricted to HR department. SSH private key found in responses: -----BEGIN RSA PRIVATE KEY----- MIIEpQIBAAKCAQEA...",1,0,0,1,1,0

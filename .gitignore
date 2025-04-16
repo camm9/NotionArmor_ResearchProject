@@ -1,0 +1,26 @@
+/Implementation/.env
+/Implementation/models/SOC2_Model
+Implementation/models/
+Lib/
+Scripts/
+pyvenv.cfg
+.env/
+venv/
+env/
+.env
+.idea/
+
+
+
+# databases
+*.db
+/Implementation/backend/databases/*.db
+
+
+
+# Python cache files
+/Implementation/backend/__pycache__/
+__pycache__/*
+__pycache__/
+*.py[cod]
+*$py.class
