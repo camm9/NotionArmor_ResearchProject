@@ -1,4 +1,4 @@
-# W25_4495_S2_CatherineM
+
 
 ### NotionArmor
 Description: This application will go through the linked pages in your Notion workspace and return strings of data. Users can choose between using 
